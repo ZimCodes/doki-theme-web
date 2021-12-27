@@ -1,12 +1,3 @@
-out
-dist/
-.idea/
-node_modules
-.vscode-test/
-*.vsix
-.vscode/
-masterExtension/src/DokiThemeDefinitions.ts
-masterExtension/src/ChangelogHtml.ts
-generatedThemes/*.json
-*.pak
-/masterThemes
+.idea
+masterThemes/
+buildSrc/
